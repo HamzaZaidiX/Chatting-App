@@ -10,7 +10,7 @@ chatting features made possible by the socket.io with is a 3rd party package wit
 
 ## Quick Start:
 
-once you Fork this Repo & Download the files on your **local device** or You just simply go to **Replit** and See [**LIVE DEMO** 🚀](https://chatting-app.hamzajaffar.repl.co/)
+once you Fork this Repo & Download the files on your **local device** or You just simply go to **Replit** and See # [**LIVE DEMO** 🚀](https://chatting-app.hamzajaffar.repl.co/)
 - make sure to run the command 'npm install' to install all the `3rd party packages Node Modules` for the proper working of the app
 
 
