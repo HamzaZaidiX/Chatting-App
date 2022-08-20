@@ -12,7 +12,13 @@ My Chatting app has awesome features made possible by the `Socket.io` with is a 
 
 ## Quick Start:
 
-once you Fork this Repo & Download the files on your **local device** or You just simply go to [**Replit**](https://chatting-app.hamzajaffar.repl.co/) and make sure to run the command 'npm install' to install all the `3rd party packages Node Modules` for the proper working of the app
+once you Fork this Repo & Download the files on your **local device** or You just simply go to [**Replit**](https://chatting-app.hamzajaffar.repl.co/) and make sure to run the command 
+
+```npm install```
+or
+```yarn add```
+
+to install all the `3rd party packages Node Modules` for the proper working of the app
 
 ## Screenshots:
 
