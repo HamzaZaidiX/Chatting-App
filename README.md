@@ -23,7 +23,7 @@ to install all the `3rd party packages Node Modules` for the proper working of t
 ## Screenshots:
 
 ![ss](https://user-images.githubusercontent.com/52501040/185605402-2cfc3810-76a3-4693-844f-0c19c6b348f2.PNG)
-![ss2](https://user-images.githubusercontent.com/52501040/185605407-7ec67175-a442-4273-b6d7-585a8257b8aa.PNG)
+<img src="https://user-images.githubusercontent.com/52501040/185605407-7ec67175-a442-4273-b6d7-585a8257b8aa.PNG" alt="screenshot" width="750" height="500" />
 
 
 ## Licence:
